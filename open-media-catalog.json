@@ -1,0 +1,2838 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "hope-loc-open-media-cn",
+  "version": "2026.08.04.1",
+  "updatedAt": "2026-08-04T12:00:00+08:00",
+  "name": "美国国会图书馆早期公开影音精选",
+  "description": "精选美国国会图书馆 National Screening Room 的早期电影、纪录影像、动画短片与经典节目；播放与再利用前请查阅每条权利说明。",
+  "items": [
+    {
+      "id": "loc-2006640759",
+      "title": "买下一头牛",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "默片",
+        "喜剧",
+        "短片"
+      ],
+      "description": "一对巴黎夫妇在乡间买下奶牛，试图将它带回城中公寓，一路笑料不断。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00010518/00010518.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/2006640759/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Buying a cow",
+      "year": 1908,
+      "duration": "7 分 38 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00010518/00010518.gif"
+    },
+    {
+      "id": "loc-mp73006600",
+      "title": "哥伦布",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "历史剧重现克里斯托弗·哥伦布人生中的若干场景，包括他横渡大西洋抵达美洲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01917765/01917765.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/mp73006600/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Christopher Columbus",
+      "year": 1910,
+      "duration": "13 分 36 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01917765/01917765.gif"
+    },
+    {
+      "id": "loc-91788160",
+      "title": "截止线以南",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "默片"
+      ],
+      "description": "黑帮规矩下的纽约城中，克莱尔的弟弟越过犯罪者不得进入的“截止线”行窃，引发警探与黑帮的追逐。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02340951/02340951.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/91788160/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Below the deadline",
+      "year": 1929,
+      "duration": "57 分 18 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02340951/02340951.gif"
+    },
+    {
+      "id": "loc-00694425",
+      "title": "1906年旧金山地震与大火",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "记录1906年4月18日旧金山大地震及随后三日火灾造成的建筑损毁和城市景象。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00007947/00007947.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/00694425/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "San Francisco earthquake and fire, April 18, 1906",
+      "year": 1906,
+      "duration": "12 分 38 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00007947/00007947.gif"
+    },
+    {
+      "id": "loc-mp76000330",
+      "title": "巴拿马运河的故事（第一号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "从建设需求、早期尝试到工程施工和通航，影片回顾巴拿马运河的建造历程。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01816169/01816169.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/mp76000330/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The story of the Panama Canal. [No. 1]",
+      "year": 1927,
+      "duration": "28 分 3 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01816169/01816169.gif"
+    },
+    {
+      "id": "loc-2021604034",
+      "title": "蝉",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "短片"
+      ],
+      "description": "通过特写和定格摄影，展现1936年第十虫群周期蝉的生命循环与行为习性。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02757922/02757922.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/2021604034/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "来源记录显示本片由美国农业部电影服务机构制作及发行，本目录按美国联邦政府作品来源标记为美国公有领域；使用前仍请查阅本条目页及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。本说明不对中国或其他司法管辖区作出公有领域结论。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Cicada",
+      "year": 1939,
+      "duration": "7 分 50 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02757922/02757922.gif"
+    },
+    {
+      "id": "loc-mp76000108",
+      "title": "动画：罗斯福抵达非洲",
+      "kind": "movie",
+      "category": "动画短片",
+      "tags": [
+        "默片",
+        "动画",
+        "短片"
+      ],
+      "description": "动画以夸张笔法描绘非洲动物得知罗斯福到来后惊慌逃散的场面。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203931/01203931.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/mp76000108/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Cartoon--TR's arrival in Africa",
+      "year": 1909,
+      "duration": "35 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203931/01203931.gif"
+    },
+    {
+      "id": "loc-mp76000182",
+      "title": "动画：欧洲君主迎接罗斯福",
+      "kind": "movie",
+      "category": "动画短片",
+      "tags": [
+        "默片",
+        "动画",
+        "短片"
+      ],
+      "description": "动画讽刺罗斯福1910年欧洲之行，他手持“大棒”，在码头受动荡不安的君主们迎接。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013188/00013188.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/mp76000182/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Cartoon of TR's reception by crowned heads of Europe",
+      "year": 1910,
+      "duration": "19 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013188/00013188.gif"
+    },
+    {
+      "id": "loc-00694431",
+      "title": "旧金山的未来",
+      "kind": "movie",
+      "category": "动画短片",
+      "tags": [
+        "动画",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1916年动画短片，以讽刺笔法反映第一次世界大战阴影下旧金山对参战与备战的争论。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02086684/02086684.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/00694431/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "San Francisco's future",
+      "year": 1916,
+      "duration": "5 分 56 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02086684/02086684.gif"
+    },
+    {
+      "id": "loc-00694125",
+      "title": "日本宫廷舞蹈",
+      "kind": "program",
+      "category": "经典节目",
+      "tags": [
+        "默片",
+        "短片",
+        "舞台表演"
+      ],
+      "description": "三名身着日本传统服饰的女演员表演《天皇》主题舞蹈，展现早期影棚舞台节目。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012568/00012568.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/00694125/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Imperial Japanese dance",
+      "year": 1894,
+      "duration": "42 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012568/00012568.gif"
+    },
+    {
+      "id": "loc-00694121",
+      "title": "格伦罗伊兄弟拳击滑稽戏",
+      "kind": "program",
+      "category": "经典节目",
+      "tags": [
+        "默片",
+        "喜剧",
+        "短片",
+        "舞台表演"
+      ],
+      "description": "格伦罗伊兄弟表演歌舞杂耍节目《拳击的滑稽一面：流浪汉与运动员》片段。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00180327/00180327.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/00694121/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Glenroy Bros. [No. 2]",
+      "year": 1894,
+      "duration": "32 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00180327/00180327.gif"
+    },
+    {
+      "id": "loc-96521479",
+      "title": "托托兄弟平衡与铁颚表演",
+      "kind": "program",
+      "category": "经典节目",
+      "tags": [
+        "默片",
+        "短片",
+        "舞台表演"
+      ],
+      "description": "舞台上的演员完成椅桌平衡、铁颚悬挂等技巧，展现早期杂耍节目。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02755853/02755853.mp4",
+      "featured": true,
+      "sourcePage": "https://www.loc.gov/item/96521479/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Toto Brothers",
+      "year": 1919,
+      "duration": "5 分 35 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02755853/02755853.gif"
+    },
+    {
+      "id": "loc-00694128",
+      "title": "淘气的小姑娘",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "父亲读报时，小女儿用长草叶挠他的脖子和耳朵，让他以为有苍蝇在作怪。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012533/00012533.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694128/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Little mischief",
+      "year": 1900,
+      "duration": "38 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012533/00012533.gif"
+    },
+    {
+      "id": "loc-2006642150",
+      "title": "奴隶之爱",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "短片"
+      ],
+      "description": "古雅典背景下，舞女克洛伊被命令取悦郁郁寡欢的波利莫斯，两人的感情引发冲突。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00015386/00015386.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/2006642150/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "A slave's love",
+      "year": 1907,
+      "duration": "9 分 39 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00015386/00015386.gif"
+    },
+    {
+      "id": "loc-mp73112700",
+      "title": "拿破仑",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "短片"
+      ],
+      "description": "历史剧片段呈现拿破仑在阿科勒桥、埃及、圣伯纳山口、加冕典礼与奥斯特里茨之战等人生阶段。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013313/00013313.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp73112700/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Napoleon",
+      "year": 1909,
+      "duration": "14 分 56 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013313/00013313.gif"
+    },
+    {
+      "id": "loc-00694308",
+      "title": "速记员的好帮手",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [],
+      "description": "忙碌的速记员无法完成堆积的工作，一名推销员随后演示爱迪生商用留声机如何帮助办公。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00016743/00016743.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694308/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The stenographer's friend, or, What was accomplished by an Edison business phonograph",
+      "year": 1910,
+      "duration": "7 分 25 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00016743/00016743.gif"
+    },
+    {
+      "id": "loc-90706439",
+      "title": "为了印第安婴儿",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "一名白人抛弃印第安妻子，带着孩子与另一名女子私奔，妻子的兄弟紧追不舍以救回婴儿。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00000080/00000080.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/90706439/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "For the papoose",
+      "year": 1912,
+      "duration": "10 分 5 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00000080/00000080.gif"
+    },
+    {
+      "id": "loc-97519972",
+      "title": "赌徒的毁灭",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "彼得·瑟斯顿沉迷赌博，耗尽财富后走上盗窃之路，最终让家庭与自己陷入悲剧。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00007409/00007409.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/97519972/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The gambler's ruin",
+      "year": 1913,
+      "duration": "13 分 21 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00007409/00007409.gif"
+    },
+    {
+      "id": "loc-00694140",
+      "title": "小提琴之声",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "杰克被偏心的父亲逐出家门后，凭小提琴演奏获得新机会；爱迪生留声机上的录音最终让家人重逢。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00016611/00016611.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694140/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The voice of the violin",
+      "year": 1915,
+      "duration": "19 分 51 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00016611/00016611.gif"
+    },
+    {
+      "id": "loc-91789743",
+      "title": "群鬼",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "默片"
+      ],
+      "description": "父辈的秘密波及子女：一名青年在不知情中爱上同父异母的姐妹，家庭医生阻止婚礼后，悲剧逐步展开。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00018697/00018697.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/91789743/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Ghosts",
+      "year": 1915,
+      "duration": "58 分 46 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00018697/00018697.gif"
+    },
+    {
+      "id": "loc-2018600177",
+      "title": "失联营",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "默片"
+      ],
+      "description": "根据一战阿贡森战役中美军第77步兵师的经历改编；孤军被围时，传信鸽成为他们与指挥部联系的唯一方式。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00007929/00007929.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/2018600177/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The lost battalion",
+      "year": 1919,
+      "duration": "99 分 14 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00007929/00007929.gif"
+    },
+    {
+      "id": "loc-2023602002",
+      "title": "圣路易蓝调",
+      "kind": "movie",
+      "category": "经典电影",
+      "tags": [
+        "短片"
+      ],
+      "description": "贝西发现恋人吉米背叛自己，遭他抛弃后唱起蓝调；在夜总会里，她用歌声倾诉哀伤。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00063365/00063365.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/2023602002/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "St. Louis blues",
+      "year": 1929,
+      "duration": "16 分钟",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00063365/00063365.gif"
+    },
+    {
+      "id": "loc-00694127",
+      "title": "伦纳德与库辛拳击赛",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "迈克·伦纳德与杰克·库辛进行六回合拳击赛，影片分回合展示进攻、闪避与近身对打。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00010330/00010330.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694127/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Leonard-Cushing fight",
+      "year": 1894,
+      "duration": "37 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00010330/00010330.gif"
+    },
+    {
+      "id": "loc-00694182",
+      "title": "柯贝特与考特尼在活动电影机前对打",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "前世界冠军詹姆·柯贝特与彼得·考特尼进行六回合拳击对打，现存影像为其中一个回合。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00049242/00049242.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694182/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Corbett and Courtney before the Kinetograph",
+      "year": 1894,
+      "duration": "1 分 3 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00049242/00049242.gif"
+    },
+    {
+      "id": "loc-00694122",
+      "title": "奔赴火场",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "纽泽西州纽瓦克消防队在队长带领下响应火警，马匹牵引的消防车队从镜头前疾驰而过。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00180349/00180349.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694122/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Going to the fire",
+      "year": 1896,
+      "duration": "28 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00180349/00180349.gif"
+    },
+    {
+      "id": "loc-00694248",
+      "title": "清晨火警",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "消防队长乘车在前，消防车、水带车、云梯车与保险巡逻队由马匹牵引，向镜头高速驶来。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00183938/00183938.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694248/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The morning alarm",
+      "year": 1896,
+      "duration": "36 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00183938/00183938.gif"
+    },
+    {
+      "id": "loc-00694206",
+      "title": "第一次雪橇竞速",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "初雪过后，两名马术爱好者驾着各自的轻便雪橇，在宾夕法尼亚州雪地上并驾竞速。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00180350/00180350.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694206/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The first sleigh-ride",
+      "year": 1897,
+      "duration": "30 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00180350/00180350.gif"
+    },
+    {
+      "id": "loc-mp73001200",
+      "title": "纽约州奥尔巴尼消防队",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "纽约州奥尔巴尼主街上，人群在人行道旁观看十四辆马拉消防设备快速驶过。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01864556/01864556.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp73001200/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Albany, N.Y., fire department",
+      "year": 1901,
+      "duration": "1 分 51 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01864556/01864556.gif"
+    },
+    {
+      "id": "loc-mp76000380",
+      "title": "麦金莱总统1901年就职典礼",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "影片包含麦金莱演讲、华盛顿宾夕法尼亚大道人群与就职游行等场面。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013131/00013131.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000380/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "President McKinley inauguration, 1901",
+      "year": 1901,
+      "duration": "2 分 2 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013131/00013131.gif"
+    },
+    {
+      "id": "loc-00694343",
+      "title": "麦金莱总统在泛美博览会检阅部队",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1901年9月，麦金莱总统在水牛城泛美博览会的体育场检阅受阅部队并向观众致意。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01889216/01889216.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694343/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "President McKinley reviewing the troops at the Pan-American Exposition",
+      "year": 1901,
+      "duration": "1 分 42 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01889216/01889216.gif"
+    },
+    {
+      "id": "loc-mp76000323",
+      "title": "麦金莱总统葬礼（第一号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "三段影像记录麦金莱总统的葬礼，包括国会大厦瞻仰仪式和华盛顿送葬队伍。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013542/00013542.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000323/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "President McKinley's funeral, 1901. [No. 1]",
+      "year": 1901,
+      "duration": "11 分 57 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013542/00013542.gif"
+    },
+    {
+      "id": "loc-00694419",
+      "title": "罗斯福在旧金山",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1903年罗斯福访问旧金山时，镜头从奥法罗街与范奈斯大道路口记录游行与人群。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01877808/01877808.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694419/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR in San Francisco, 1903",
+      "year": 1903,
+      "duration": "2 分 10 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01877808/01877808.gif"
+    },
+    {
+      "id": "loc-mp73002700",
+      "title": "大西洋城建市五十周年游行",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1904年大西洋城庆祝建市五十周年，爱国主题彩车、美军鼓号队与当地消防队参加游行。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02047477/02047477.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp73002700/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Parade, fiftieth anniversary, Atlantic City, N.J.",
+      "year": 1904,
+      "duration": "2 分 39 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02047477/02047477.gif"
+    },
+    {
+      "id": "loc-mp73012800",
+      "title": "大西洋城海滨步道的复活节",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1904年复活节，身着节日盛装的人群沿大西洋城海滨步道漫步，有人坐观光推车，也有家庭推着婴儿车。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02057102/02057102.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp73012800/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "[Easter Sunday, Atlantic City boardwalk]",
+      "year": 1904,
+      "duration": "2 分 34 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02057102/02057102.gif"
+    },
+    {
+      "id": "loc-mp73016600",
+      "title": "大西洋城鲜花游行",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1904年大西洋城街头，乐队、制服队伍与鲜花装饰的彩车在观众面前缓缓通过。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02409071/02409071.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp73016600/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Atlantic City floral parade",
+      "year": 1904,
+      "duration": "2 分 6 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02409071/02409071.gif"
+    },
+    {
+      "id": "loc-mp76000276",
+      "title": "威廉·戈加斯医生",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片"
+      ],
+      "description": "影像开头记录巴拿马运河首席卫生官威廉·戈加斯，其余部分展示市街与运河区域。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012966/00012966.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000276/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Dr. William Gorgas",
+      "year": 1904,
+      "duration": "49 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012966/00012966.gif"
+    },
+    {
+      "id": "loc-mp73006300",
+      "title": "芝加哥大学对密歇根大学橄榄球赛",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1904年11月，密歇根大学狼獾队在费里球场对阵芝加哥大学栗色队，镜头记录比赛、球员和观众。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01833338/01833338.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp73006300/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Chicago-Michigan football game",
+      "year": 1904,
+      "duration": "6 分 26 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01833338/01833338.gif"
+    },
+    {
+      "id": "loc-mp76000340",
+      "title": "日俄和谈代表离开纽约",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1905年8月，日本与俄国代表团从纽约出发，经牡蛎湾拜会罗斯福后前往朴茨茅斯参加和会。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013121/00013121.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000340/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Japanese and Russian peace delegates--leaving New York City, 1905",
+      "year": 1905,
+      "duration": "3 分 40 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013121/00013121.gif"
+    },
+    {
+      "id": "loc-00694394",
+      "title": "纽约地铁内景：十四街至四十二街",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "摄影机装在纽约地铁列车前端，跟随前车从联合广场行驶至老中央车站，当时地铁开通仅七个月。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01810601/01810601.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694394/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Interior N.Y. subway, 14th St. to 42nd St",
+      "year": 1905,
+      "duration": "6 分 21 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01810601/01810601.gif"
+    },
+    {
+      "id": "loc-mp76000336",
+      "title": "罗斯福1905年就职仪式",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1905年3月4日，罗斯福乘敞篷马车穿过华盛顿十五街，出席总统就职典礼。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012871/00012871.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000336/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "[TR's inaugural ceremony, 1905]",
+      "year": 1905,
+      "duration": "1 分 41 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012871/00012871.gif"
+    },
+    {
+      "id": "loc-mp76000047",
+      "title": "罗斯福1905年就职典礼（第一号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1905年3月4日，华盛顿国会大厦前聚集大批民众，罗斯福宣誓就任美国总统。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203930/01203930.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000047/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR's inauguration, 1905. [No. 1]",
+      "year": 1905,
+      "duration": "10 分 8 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203930/01203930.gif"
+    },
+    {
+      "id": "loc-00694408",
+      "title": "大火前的市场街之旅",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1906年4月14日，摄影机从有轨电车上记录旧金山市场街；四天后，这片城区在地震与大火中被毁。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00015143/00015143.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694408/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "A trip down Market Street before the fire",
+      "year": 1906,
+      "duration": "8 分 31 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00015143/00015143.gif"
+    },
+    {
+      "id": "loc-00694426",
+      "title": "爆炸的储气罐、造币厂与市中心废墟",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1906年旧金山地震大火后，镜头环拍储气罐、美国造币厂、商场与斯普雷克尔斯大楼周边的废墟。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01622198/01622198.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694426/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Exploded gas tanks, U.S. Mint, Emporium and Spreckels Bld'g",
+      "year": 1906,
+      "duration": "1 分 26 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01622198/01622198.gif"
+    },
+    {
+      "id": "loc-mp76000225",
+      "title": "罗斯福在巴拿马演讲",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1906年11月，罗斯福巡视巴拿马运河时，与巴拿马总统阿马多尔·格雷罗一同出现并向人群演讲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013087/00013087.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000225/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR speaking in Panama, November 1906",
+      "year": 1906,
+      "duration": "2 分 10 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013087/00013087.gif"
+    },
+    {
+      "id": "loc-mp76000087",
+      "title": "罗斯福抵达巴拿马（第二号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1906年11月，罗斯福巡视巴拿马运河时抵达巴拿马城，成为首位在任期间出访外国的美国总统。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203929/01203929.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000087/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR's arrival in Panama, November 1906. [No. 2]",
+      "year": 1906,
+      "duration": "2 分 8 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203929/01203929.gif"
+    },
+    {
+      "id": "loc-00694429",
+      "title": "驮运补给的陆军队伍",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1906年旧金山地震大火后，美国陆军用骡马驮队穿过受灾街区，向难民营与补给中心运送物资。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02064577/02064577.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694429/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Army pack train bringing supplies",
+      "year": 1906,
+      "duration": "1 分 59 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02064577/02064577.gif"
+    },
+    {
+      "id": "loc-mp76000116",
+      "title": "1907年詹姆敦博览会",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1907年4月与6月，罗斯福在弗吉尼亚州诺福克参加詹姆敦三百周年博览会，演讲并检阅军队。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013541/00013541.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000116/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Jamestown Exposition, 1907",
+      "year": 1907,
+      "duration": "11 分 36 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013541/00013541.gif"
+    },
+    {
+      "id": "loc-mp76000258",
+      "title": "汉普顿锚地国际海军检阅",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1907年詹姆斯敦博览会开幕时，美国大西洋舰队与多国军舰在弗吉尼亚州汉普顿锚地参加检阅。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013125/00013125.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000258/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "International naval review, Hampton Roads, Virginia, 1907",
+      "year": 1907,
+      "duration": "2 分 8 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013125/00013125.gif"
+    },
+    {
+      "id": "loc-mp76000025",
+      "title": "爱德华七世国王葬礼",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1910年5月20日，爱德华七世的送葬队伍穿过伦敦，各国元首与王室成员随行。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01808210/01808210.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000025/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "King Edward's funeral, 1910 [2]",
+      "year": 1910,
+      "duration": "6 分 52 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01808210/01808210.gif"
+    },
+    {
+      "id": "loc-mp76000114",
+      "title": "罗斯福受邀乘坐霍克西的飞机",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1910年10月，罗斯福在圣路易受邀乘坐阿奇·霍克西驾驶的双翼机。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203936/01203936.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000114/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Colonel Roosevelt is invited to fly in Arch Hoxsey's plane at St. Louis, Mo., 1910",
+      "year": 1910,
+      "duration": "4 分 10 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203936/01203936.gif"
+    },
+    {
+      "id": "loc-mp76000186",
+      "title": "罗斯福在法国万塞讷检阅部队",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1910年，罗斯福在法国军政要员陪同下抵达万塞讷城堡，检阅当地部队。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01808209/01808209.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000186/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR reviews French troops at Vincennes, France, 1910",
+      "year": 1910,
+      "duration": "4 分 1 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01808209/01808209.gif"
+    },
+    {
+      "id": "loc-mp76000013",
+      "title": "罗斯福在炮台公园演讲",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1910年罗斯福游历海外后返回纽约，在炮台公园的欢迎活动中向市民演讲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013114/00013114.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000013/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR speaking at the Battery, 1910",
+      "year": 1910,
+      "duration": "1 分 1 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013114/00013114.gif"
+    },
+    {
+      "id": "loc-mp76000345",
+      "title": "罗斯福访问挪威和丹麦（第一号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1910年罗斯福从非洲返程中访问丹麦和挪威，与两国王室成员同行。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01808208/01808208.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000345/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR in Norway and Denmark, 1910 [1]",
+      "year": 1910,
+      "duration": "8 分 5 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01808208/01808208.gif"
+    },
+    {
+      "id": "loc-mp76000002",
+      "title": "罗斯福重返纽约（第一号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1910年6月18日，罗斯福结束长达十五个月的海外旅行，在纽约受到盛大欢迎。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012776/00012776.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000002/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR's return to New York, 1910. [No. 1]",
+      "year": 1910,
+      "duration": "7 分 47 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012776/00012776.gif"
+    },
+    {
+      "id": "loc-mp76000231",
+      "title": "罗斯福水坝景象",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "镜头沿亚利桑那州盐河展示罗斯福水坝、泄水口和水坝上行驶的汽车。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013187/00013187.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000231/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Scenes of Roosevelt Dam",
+      "year": 1911,
+      "duration": "54 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013187/00013187.gif"
+    },
+    {
+      "id": "loc-mp76000124",
+      "title": "罗斯福水坝落成演讲",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1911年3月，罗斯福出席亚利桑那领地罗斯福水坝落成典礼并发表讲话。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012807/00012807.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000124/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR speaking at the dedication of Roosevelt Dam, 1911",
+      "year": 1911,
+      "duration": "32 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012807/00012807.gif"
+    },
+    {
+      "id": "loc-mp76000130",
+      "title": "罗斯福在北达科他州法戈竞选",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1912年进步党西部竞选期间，罗斯福在北达科他州法戈的火车和会场向群众演讲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013050/00013050.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000130/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR at Fargo, N.D., during Progressive campaign, 1912 [1]",
+      "year": 1912,
+      "duration": "5 分 8 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013050/00013050.gif"
+    },
+    {
+      "id": "loc-mp76000005",
+      "title": "罗斯福在科罗拉多州普韦布洛演讲",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [],
+      "description": "1912年西部巡回竞选期间，西奥多·罗斯福在科罗拉多州普韦布洛向群众演讲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01957559/01957559.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000005/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR speaking at [Pueblo] Colorado, 1912",
+      "year": 1912,
+      "duration": "1 分 29 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01957559/01957559.gif"
+    },
+    {
+      "id": "loc-mp76000076",
+      "title": "罗斯福在萨加莫尔山（1912年）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1912年夏，镜头首次拍下罗斯福在萨加莫尔山骑马、接见记者并与家人相处的场景。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013183/00013183.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000076/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Scenes of TR at Sagamore Hill, 1912",
+      "year": 1912,
+      "duration": "2 分 27 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013183/00013183.gif"
+    },
+    {
+      "id": "loc-mp76000109",
+      "title": "霍皮人为罗斯福举行蛇舞",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "短片"
+      ],
+      "description": "1913年8月，罗斯福在亚利桑那州沃尔皮观看霍皮人的仪式性蛇舞。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01847451/01847451.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000109/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Hopi Indians dance for TR at [Walpi, Ariz.] 1913",
+      "year": 1913,
+      "duration": "4 分 36 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01847451/01847451.gif"
+    },
+    {
+      "id": "loc-mp73013400",
+      "title": "男女同校学校放学时刻",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "一群中学生穿过校舍拱门、走下台阶；许多人抱着书本，男生戴帽，女生穿着当时流行的长裙。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02613277/02613277.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp73013400/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "[End of school day at coeducational school]",
+      "year": 1914,
+      "duration": "2 分 50 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02613277/02613277.gif"
+    },
+    {
+      "id": "loc-mp76000103",
+      "title": "罗斯福在牡蛎湾划船",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1914年，西奥多·罗斯福独自在牡蛎湾划船，儿子阿奇随后协助将船拖上岸。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013081/00013081.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000103/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR in a rowboat on Oyster Bay, Archie assists with boat to shore, 1914",
+      "year": 1914,
+      "duration": "56 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013081/00013081.gif"
+    },
+    {
+      "id": "loc-mp73008200",
+      "title": "纽约克莱蒙特剧院外景",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1915年，大批观众走出纽约百老汇大道135街的克莱蒙特剧院，送货员、马车和汽车从门前经过。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01870128/01870128.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp73008200/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "[Claremont Theatre, N.Y.]",
+      "year": 1915,
+      "duration": "3 分 53 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01870128/01870128.gif"
+    },
+    {
+      "id": "loc-mp76000056",
+      "title": "罗斯福在圣迭戈博览会",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1915年7月27日，西奥多·罗斯福夫妇参加巴拿马—加州博览会的罗斯福日活动。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01958131/01958131.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000056/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR at San Diego Exposition, 1915",
+      "year": 1915,
+      "duration": "51 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01958131/01958131.gif"
+    },
+    {
+      "id": "loc-mp76000128",
+      "title": "罗斯福在萨加莫尔山（1916年）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "短片"
+      ],
+      "description": "1916年5月，罗斯福无党派联盟组织两千余人前往萨加莫尔山，表达对他的支持。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012990/00012990.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000128/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR at Sagamore Hill [1916]",
+      "year": 1915,
+      "duration": "2 分 6 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012990/00012990.gif"
+    },
+    {
+      "id": "loc-mp76000363",
+      "title": "罗斯福在路易斯安那（第四号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1915年，罗斯福随全国奥杜邦协会考察路易斯安那沿海鸟类保护岛，镜头记录他在海滩观鸟。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01244974/01244974.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000363/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR [in Louisiana], 1915 [4]",
+      "year": 1915,
+      "duration": "37 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01244974/01244974.gif"
+    },
+    {
+      "id": "loc-mp76000120",
+      "title": "罗斯福夫妇参观巴拿马—加州博览会",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1915年7月，罗斯福与妻子伊迪丝在圣迭戈博览会场馆台阶上与官员交谈。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013105/00013105.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000120/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR and Mrs. Roosevelt [at the Panama-California Exposition, 1915]",
+      "year": 1915,
+      "duration": "21 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013105/00013105.gif"
+    },
+    {
+      "id": "loc-mp76000207",
+      "title": "1916年共和党大会人物",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像"
+      ],
+      "description": "1916年芝加哥共和党全国代表大会期间，昌西·迪休、帕金斯参议员与纽约州长惠特曼等人出现。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012927/00012927.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000207/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "[Chauncey Depew, Senator Perkins, and Governor Whitman of New York, at GOP Convention, 1916, Chicago, Ill.]",
+      "year": 1916,
+      "duration": "1 分 21 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012927/00012927.gif"
+    },
+    {
+      "id": "loc-mp76000024",
+      "title": "休斯在杜肯竞选演讲",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像"
+      ],
+      "description": "1916年美国大选期间，共和党候选人查尔斯·埃文斯·休斯在宾夕法尼亚州杜肯向民众演讲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01869996/01869996.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000024/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "[Charles E. Hughes speaking during campaign, Duquesne, Pa., 1916]",
+      "year": 1916,
+      "duration": "45 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01869996/01869996.gif"
+    },
+    {
+      "id": "loc-mp76000006",
+      "title": "我们应当备战吗？",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "罗斯福在萨加莫尔山谈第一次世界大战期间的军事准备，并在杂志社办公室中与人交谈。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01204275/01204275.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000006/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Shall we prepare?",
+      "year": 1916,
+      "duration": "3 分 2 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01204275/01204275.gif"
+    },
+    {
+      "id": "loc-mp76000168",
+      "title": "罗斯福在新墨西哥州竞选",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1916年10月，罗斯福在阿尔伯克基为共和党候选人休斯助选，参加汽车游行并演讲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012919/00012919.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000168/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR in New Mexico, 1916",
+      "year": 1916,
+      "duration": "1 分 23 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012919/00012919.gif"
+    },
+    {
+      "id": "loc-mp76000093",
+      "title": "罗斯福在萨加莫尔山向支持者演讲",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1916年5月，支持罗斯福获得总统提名的民众游行至萨加莫尔山，听他在门廊演讲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013080/00013080.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000093/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR speaking to a group of men from the porch at Sagamore Hill, 1916",
+      "year": 1916,
+      "duration": "1 分 42 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013080/00013080.gif"
+    },
+    {
+      "id": "loc-mp76000150",
+      "title": "罗斯福在萨加莫尔山演讲（第一号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "三段影像记录1916至1918年间，罗斯福在萨加莫尔山门廊向不同群体演讲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012955/00012955.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000150/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR speaking at Sagamore Hill [1916-1918]. [No. 1]",
+      "year": 1916,
+      "duration": "2 分 44 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012955/00012955.gif"
+    },
+    {
+      "id": "loc-mp76000229",
+      "title": "罗斯福在阿尔伯克基受欢迎",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1916年10月，罗斯福抵达新墨西哥州阿尔伯克基，为共和党候选人休斯助选。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013083/00013083.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000229/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR's reception in Albuquerque, N.M., 1916",
+      "year": 1916,
+      "duration": "2 分 20 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013083/00013083.gif"
+    },
+    {
+      "id": "loc-00694217",
+      "title": "南非的金矿与钻石矿",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "展示南非德兰士瓦地区开采和加工黄金、钻石的过程，并记录约翰内斯堡与金伯利街景。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02613500/02613500.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694217/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Gold and diamond mines of South Africa",
+      "year": 1917,
+      "duration": "2 分 47 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02613500/02613500.gif"
+    },
+    {
+      "id": "loc-00694119",
+      "title": "沿古老的波托马克河而下",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "影片跟随一次为期一周的旅程，沿切萨皮克与俄亥俄运河穿过波托马克河谷，记录船闸、运煤船、哈珀斯渡口与大瀑布。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01488879/01488879.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694119/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Down the old Potomac",
+      "year": 1917,
+      "duration": "10 分 22 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01488879/01488879.gif"
+    },
+    {
+      "id": "loc-mp76000072",
+      "title": "罗斯福与伍德参观纽约花展",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1917年3月，罗斯福与伦纳德·伍德出席纽约第五届国际花卉展。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013070/00013070.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000072/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR and Leonard Wood at the New York flower show, 1917",
+      "year": 1917,
+      "duration": "1 分 42 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013070/00013070.gif"
+    },
+    {
+      "id": "loc-mp76000115",
+      "title": "罗斯福出席儿子阿奇的婚礼",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1917年4月，西奥多·罗斯福在波士顿出席儿子阿奇与格雷斯·洛克伍德的婚礼。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01244970/01244970.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000115/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR attends his son Archie's wedding at Boston, 1917",
+      "year": 1917,
+      "duration": "1 分 3 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01244970/01244970.gif"
+    },
+    {
+      "id": "loc-mp76000066",
+      "title": "罗斯福向妇女参政者演讲",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1917年，罗斯福在萨加莫尔山门廊上向参与纽约州妇女选举权运动的人群讲话。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013079/00013079.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000066/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR speaking to a group of suffragettes from the porch at Sagamore Hill [1917]",
+      "year": 1917,
+      "duration": "42 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013079/00013079.gif"
+    },
+    {
+      "id": "loc-mp76000306",
+      "title": "罗斯福圣诞拜访邻居",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1917年圣诞节，罗斯福手提礼物在纽约州牡蛎湾拜访邻居，与家庭成员见面。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013084/00013084.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000306/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR calls on neighbors at Christmas, 1917",
+      "year": 1917,
+      "duration": "48 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013084/00013084.gif"
+    },
+    {
+      "id": "loc-mp76000174",
+      "title": "罗斯福在纽约森林山演讲（第二号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1917年7月4日，罗斯福在纽约森林山火车站发表战时演讲，随后检阅当地步枪俱乐部。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012889/00012889.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000174/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR at Forest Hills, New York, 1917 [2]",
+      "year": 1917,
+      "duration": "5 分 48 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012889/00012889.gif"
+    },
+    {
+      "id": "loc-mp76000043",
+      "title": "罗斯福检阅谢里登堡部队",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1917年罗斯福访问伊利诺伊州谢里登堡军官训练营，检阅部队并发表讲话。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01244991/01244991.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000043/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR reviews and addresses troops [Fort Sheridan, Ill.]; TR riding in auto, Chicago, 1917",
+      "year": 1917,
+      "duration": "1 分 51 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01244991/01244991.gif"
+    },
+    {
+      "id": "loc-mp76000200",
+      "title": "罗斯福活动片段（1917—1918）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "多段影像记录罗斯福在米尔斯营等地参加支持战争动员的公共活动。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01847499/01847499.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000200/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Roosevelt scenes [1917-1918]",
+      "year": 1917,
+      "duration": "4 分 7 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01847499/01847499.gif"
+    },
+    {
+      "id": "loc-mp76000304",
+      "title": "罗斯福父子片段（第二号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1917至1918年间的多段影像，分别记录昆廷和阿奇·罗斯福穿军装的场景，以及他们的父亲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00007883/00007883.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000304/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Scenes of TR and his sons Quentin and Archie, 1917-1918 [2]",
+      "year": 1917,
+      "duration": "1 分 25 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00007883/00007883.gif"
+    },
+    {
+      "id": "loc-mp76000157",
+      "title": "莎拉·伯恩哈特在布鲁克林演讲",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1917年7月4日，法国演员莎拉·伯恩哈特在布鲁克林展望公园向五万余人演讲，倡导法美战时合作。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012923/00012923.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000157/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Sarah Bernhardt addresses crowd in Prospect Park, Brooklyn, 1917",
+      "year": 1917,
+      "duration": "27 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012923/00012923.gif"
+    },
+    {
+      "id": "loc-mp76000069",
+      "title": "俄国末代沙皇最后的住所",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "镜头展示俄国末代沙皇尼古拉二世一家遇害的伊帕捷耶夫宅，以及一组布尔什维克俘虏。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01808024/01808024.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000069/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Last known home of Czar Nicholas",
+      "year": 1918,
+      "duration": "1 分 55 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01808024/01808024.gif"
+    },
+    {
+      "id": "loc-mp76000226",
+      "title": "小罗斯福夫人参加巴黎战时妇女大会",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像"
+      ],
+      "description": "1918年，从事战时基督教青年会服务的小罗斯福夫人在巴黎参加战时妇女工作大会。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013085/00013085.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000226/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Mrs. Theodore Roosevelt Jr. attends Women in War Work Congress in Paris [1918]",
+      "year": 1918,
+      "duration": "49 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013085/00013085.gif"
+    },
+    {
+      "id": "loc-mp76000121",
+      "title": "罗斯福参加米切尔市长葬礼后",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1918年7月，罗斯福作为护柩者参加纽约前市长约翰·米切尔的葬礼，随后现身第五大道。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01244982/01244982.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000121/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR on Fifth Avenue, New York, near St. Patrick's Cathedral after attending Mayor Mitchel's funeral",
+      "year": 1918,
+      "duration": "28 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01244982/01244982.gif"
+    },
+    {
+      "id": "loc-mp76000164",
+      "title": "罗斯福在巴尔的摩与萨加莫尔山",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "两段1918年影像记录罗斯福分别在巴尔的摩和萨加莫尔山为自由公债募集演讲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013046/00013046.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000164/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR at Baltimore [1918] ; TR at Sagamore [Hill, 1918]",
+      "year": 1918,
+      "duration": "1 分 12 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013046/00013046.gif"
+    },
+    {
+      "id": "loc-mp76000198",
+      "title": "罗斯福在巴尔的摩推动自由公债",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "短片"
+      ],
+      "description": "1918年9月，罗斯福在巴尔的摩鹂鹂棒球场为第四次自由公债运动发表主要演讲。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01847508/01847508.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000198/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR in Baltimore during Liberty Loan drive, 1918",
+      "year": 1918,
+      "duration": "1 分 9 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01847508/01847508.gif"
+    },
+    {
+      "id": "loc-mp76000170",
+      "title": "罗斯福在蒙大拿州比灵斯",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1918年10月，罗斯福在蒙大拿州比灵斯为自由公债募集并发表演说。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01816177/01816177.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000170/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR at Billings, Montana [1918]",
+      "year": 1918,
+      "duration": "34 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01816177/01816177.gif"
+    },
+    {
+      "id": "loc-mp76000094",
+      "title": "英国王室片段",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "玛丽王后、乔治五世及英国王室成员列队进入伦敦圣玛格丽特教堂。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013156/00013156.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000094/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "[Scenes of the British royal family]",
+      "year": 1918,
+      "duration": "48 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013156/00013156.gif"
+    },
+    {
+      "id": "loc-mp76000092",
+      "title": "“美国主义获胜”：柯立芝当选",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "短片"
+      ],
+      "description": "1919年马萨诸塞州州长选举前后，卡尔文·柯立芝与家人出现在住宅和投票现场。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012925/00012925.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000092/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Americanism wins, Coolidge elected",
+      "year": 1919,
+      "duration": "1 分 5 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012925/00012925.gif"
+    },
+    {
+      "id": "loc-mp76000082",
+      "title": "威尔士亲王拜谒罗斯福墓",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1919年，后来的爱德华八世访美期间，前往纽约牡蛎湾拜谒西奥多·罗斯福墓。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013062/00013062.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000082/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The Prince of Wales visits TR's grave",
+      "year": 1919,
+      "duration": "38 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013062/00013062.gif"
+    },
+    {
+      "id": "loc-mp76000144",
+      "title": "小西奥多·罗斯福与海陆军人",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像"
+      ],
+      "description": "小西奥多·罗斯福与两名水手、两名士兵交谈；片中字幕介绍他参与创建美国退伍军人协会。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012892/00012892.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000144/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR Jr. with group of sailors and soldiers",
+      "year": 1919,
+      "duration": "27 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012892/00012892.gif"
+    },
+    {
+      "id": "loc-mp76000099",
+      "title": "小西奥多·罗斯福战后抵达纽约",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1919年3月，腿部受伤的小西奥多·罗斯福从法国返回纽约，与家人团聚。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013058/00013058.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000099/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Lieutenant-Colonel Theodore Roosevelt arrives in New York after the World War",
+      "year": 1919,
+      "duration": "28 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013058/00013058.gif"
+    },
+    {
+      "id": "loc-mp76000322",
+      "title": "巴拿马运河竣工景象",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "摄影机随船从大西洋驶向太平洋，依次记录科隆、加特潘船闸、加特潘湖与运河水道。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01903682/01903682.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000322/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Panama Canal--scenes of the finished Canal",
+      "year": 1919,
+      "duration": "16 分 44 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01903682/01903682.gif"
+    },
+    {
+      "id": "loc-mp76000156",
+      "title": "比利时国王阿尔贝拜谒罗斯福墓",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像"
+      ],
+      "description": "1919年10月，比利时国王阿尔贝一世在利奥波德王子和小罗斯福陪同下拜谒罗斯福墓。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01957283/01957283.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000156/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "King Albert of Belgium visits TR's grave, October, 1919",
+      "year": 1919,
+      "duration": "57 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01957283/01957283.gif"
+    },
+    {
+      "id": "loc-mp76000143",
+      "title": "牡蛎湾罗斯福纪念旗仪式",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1919年10月，穿越纽约州的罗斯福纪念旗抵达牡蛎湾，安放于他的墓地。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012777/00012777.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000143/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "[Flag services for TR at Oyster Bay, October 1919]",
+      "year": 1919,
+      "duration": "1 分 16 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012777/00012777.gif"
+    },
+    {
+      "id": "loc-mp76000141",
+      "title": "纽约公共图书馆前的纪念旗仪式",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "1919年，罗斯福纪念旗途经纽约公共图书馆，在台阶上举行交接与致敬仪式。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012835/00012835.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000141/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "RMA flag service on the steps of New York Public Library, 1919",
+      "year": 1919,
+      "duration": "1 分 54 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012835/00012835.gif"
+    },
+    {
+      "id": "loc-mp76000176",
+      "title": "罗斯福在牡蛎湾的葬礼",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1919年1月，牡蛎湾基督圣公会教堂、送葬队伍与杨氏纪念公墓共同构成罗斯福葬礼影像。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013071/00013071.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000176/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR's funeral at Oyster Bay, 1919",
+      "year": 1919,
+      "duration": "2 分 53 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013071/00013071.gif"
+    },
+    {
+      "id": "loc-mp76000342",
+      "title": "哈定与柯立芝的提名仪式",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1920年，沃伦·哈定和卡尔文·柯立芝分别接受共和党总统与副总统候选人提名。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01632887/01632887.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000342/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "President Harding and Calvin Coolidge [1]",
+      "year": 1920,
+      "duration": "10 分 57 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01632887/01632887.gif"
+    },
+    {
+      "id": "loc-mp76000126",
+      "title": "探访萨加莫尔山的罗斯福",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "短片"
+      ],
+      "description": "1912年夏，镜头首次记录罗斯福在长岛萨加莫尔山的宅邸、家人与日常活动。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00180631/00180631.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000126/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "A visit to Theodore Roosevelt at his home at Sagamore Hill, Oyster Bay, L.I., 1912",
+      "year": 1920,
+      "duration": "7 分 9 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00180631/00180631.gif"
+    },
+    {
+      "id": "loc-mp76000064",
+      "title": "伦纳德·伍德为罗斯福故居奠基",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "新闻影像",
+        "短片"
+      ],
+      "description": "1921年1月，伦纳德·伍德少将为纽约的罗斯福出生地修复工程安放奠基石。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012922/00012922.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000064/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Leonard Wood lays cornerstone of Roosevelt House, 1921",
+      "year": 1921,
+      "duration": "38 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00012922/00012922.gif"
+    },
+    {
+      "id": "loc-00694187",
+      "title": "与托马斯·爱迪生共度一日",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "记录74岁的爱迪生与员工合作、与实业家交谈、巡视工厂，并介绍白炽灯泡的制造过程。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00826721/00826721.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694187/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "A day with Thomas A. Edison",
+      "year": 1922,
+      "duration": "18 分 29 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00826721/00826721.gif"
+    },
+    {
+      "id": "loc-mp76000356",
+      "title": "鸟类之友罗斯福（第一号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "通过鸟类生活、猎杀场面与1915年路易斯安那保护区实拍，介绍罗斯福参与鸟类保护的经历。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013331/00013331.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000356/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Roosevelt, friend of the birds. [No. 1]",
+      "year": 1924,
+      "duration": "14 分 49 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013331/00013331.gif"
+    },
+    {
+      "id": "loc-mp76000377",
+      "title": "罗斯福结束非洲之行（第二号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "回顾罗斯福1910年从非洲返国的旅程，包括苏丹尼罗河航行、欧洲访问和纽约欢迎仪式。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013307/00013307.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000377/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "TR's return from Africa, 1910 [2]",
+      "year": 1925,
+      "duration": "28 分 39 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00013307/00013307.gif"
+    },
+    {
+      "id": "loc-mp76000367",
+      "title": "疑河探险（第二号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "默片",
+        "短片"
+      ],
+      "description": "罗斯福1913年南美探险队的成员在出发船上合影，随后呈现旅程参与者和探险背景。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203954/01203954.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000367/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The River of Doubt. [No. 2]",
+      "year": 1928,
+      "duration": "27 分 50 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203954/01203954.gif"
+    },
+    {
+      "id": "loc-mp76000354",
+      "title": "罗斯福水坝（第一号）",
+      "kind": "movie",
+      "category": "纪录影像",
+      "tags": [
+        "短片"
+      ],
+      "description": "影片通过弗雷德里克·纽韦尔、吉福德·平肖等人与水利景观，介绍罗斯福的荒漠土地开发政策。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203963/01203963.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/mp76000354/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The Roosevelt Dam [1]",
+      "year": 1928,
+      "duration": "14 分 13 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01203963/01203963.gif"
+    },
+    {
+      "id": "loc-00694112",
+      "title": "沃尔顿教授的拳击猫",
+      "kind": "program",
+      "category": "经典节目",
+      "tags": [
+        "默片",
+        "短片",
+        "舞台表演"
+      ],
+      "description": "沃尔顿教授让两只训练有素、戴着拳击手套的猫进行一场滑稽对打。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00179897/00179897.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/00694112/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "The boxing cats (Prof. Welton's)",
+      "year": 1894,
+      "duration": "31 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00179897/00179897.gif"
+    },
+    {
+      "id": "loc-96521478",
+      "title": "克鲁格与沃德的高矮双人秀",
+      "kind": "program",
+      "category": "经典节目",
+      "tags": [
+        "默片",
+        "短片",
+        "舞台表演"
+      ],
+      "description": "一高一矮两位小丑在峡谷布景前表演滑稽舞台节目。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02755628/02755628.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/96521478/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Kruger and Ward",
+      "year": 1919,
+      "duration": "3 分 18 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02755628/02755628.gif"
+    },
+    {
+      "id": "loc-96520998",
+      "title": "卡瓦纳三人组",
+      "kind": "program",
+      "category": "经典节目",
+      "tags": [
+        "默片",
+        "短片",
+        "舞台表演"
+      ],
+      "description": "两名男演员与一名女演员身着和服，在舞台上表演以双脚抛接人体和道具的技巧。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00015197/00015197.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/96520998/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Kawana Trio",
+      "year": 1919,
+      "duration": "3 分 6 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00015197/00015197.gif"
+    },
+    {
+      "id": "loc-96521477",
+      "title": "三位跳跃的士兵",
+      "kind": "program",
+      "category": "经典节目",
+      "tags": [
+        "默片",
+        "短片",
+        "舞台表演"
+      ],
+      "description": "三名身穿英军式服装的杂技演员在花园布景前表演空翻、侧手翻、旋转和滑稽舞步。",
+      "url": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02755666/02755666.mp4",
+      "featured": false,
+      "sourcePage": "https://www.loc.gov/item/96521477/",
+      "rights": {
+        "status": "public-domain",
+        "statement": "该作品最初发表于1930年或更早，本目录按美国公有领域作品收录；使用前请同时查阅本条目的美国国会图书馆页面及 National Screening Room 馆藏权利页。权利评估及取得任何必要许可仍由使用者自行负责。其他司法管辖区（包括中国）的法律结论可能不同，本说明不构成当地公有领域保证。",
+        "sourceUrl": "https://www.loc.gov/collections/national-screening-room/about-this-collection/rights-and-access/",
+        "attribution": "Library of Congress, Motion Picture, Broadcasting, and Recorded Sound Division.",
+        "reviewedAt": "2026-08-04"
+      },
+      "originalTitle": "Three jumping Tommies",
+      "year": 1920,
+      "duration": "3 分 7 秒",
+      "posterUrl": "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02755666/02755666.gif"
+    }
+  ]
+}
